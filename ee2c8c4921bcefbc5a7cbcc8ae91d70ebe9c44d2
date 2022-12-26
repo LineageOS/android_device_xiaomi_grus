@@ -16,6 +16,24 @@
       "message": "Our manufacturer and model values are correct, there\u0027s no need to add this value",
       "revId": "ee2c8c4921bcefbc5a7cbcc8ae91d70ebe9c44d2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a3daf754_0201a154",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30475
+      },
+      "writtenOn": "2022-12-26T12:55:42Z",
+      "side": 1,
+      "message": "OK",
+      "parentUuid": "70915ae5_60741aa7",
+      "revId": "ee2c8c4921bcefbc5a7cbcc8ae91d70ebe9c44d2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
