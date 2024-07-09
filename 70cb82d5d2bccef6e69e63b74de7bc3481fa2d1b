@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "49877195_31820a7d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-07-09T23:36:03Z",
+      "side": 1,
+      "message": "`ro.product.vendor.model\u003dMi 9 SE`",
+      "revId": "70cb82d5d2bccef6e69e63b74de7bc3481fa2d1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
