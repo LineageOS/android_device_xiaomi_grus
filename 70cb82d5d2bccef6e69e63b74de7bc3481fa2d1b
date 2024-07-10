@@ -16,6 +16,24 @@
       "message": "`ro.product.vendor.model\u003dMi 9 SE`",
       "revId": "70cb82d5d2bccef6e69e63b74de7bc3481fa2d1b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc40c346_daf1184c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33855
+      },
+      "writtenOn": "2024-07-10T09:01:57Z",
+      "side": 1,
+      "message": "Please check the miui vendor prop again. \nhttps://dumps.tadiphone.dev/dumps/xiaomi/grus/-/blob/grus-user-11-RKQ1.200826.002-V12.5.1.0.RFBCNXM-release-keys/vendor/build.prop?ref_type\u003dheads#L379",
+      "parentUuid": "49877195_31820a7d",
+      "revId": "70cb82d5d2bccef6e69e63b74de7bc3481fa2d1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
